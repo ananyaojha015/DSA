@@ -1,0 +1,19 @@
+## Progress
+
+- [ ] Basics
+- [ ] Sorting
+- [ ] Arrays
+- [ ] Binary Search
+- [ ] Strings
+- [ ] Linked List
+- [ ] Recursion
+- [ ] Bit Manipulation
+- [ ] Stack & Queue
+- [ ] Sliding Window
+- [ ] Heaps
+- [ ] Greedy
+- [ ] Binary Trees
+- [ ] BST
+- [ ] Graphs
+- [ ] Dynamic Programming
+- [ ] Tries
