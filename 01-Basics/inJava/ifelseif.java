@@ -55,7 +55,7 @@ public class ifelseif {
         {
             System.out.println("grade C");
         }
-        else if(x>=35)
+        else if(x>=35 )
         {
             System.out.println("grade D");
         }
